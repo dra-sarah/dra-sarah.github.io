@@ -3,6 +3,11 @@
 
 ### My Projects
 Here are a list of projects that I am have been working on:
+<ul>
+<li><a href="https://github.com/dra-sarah/HelloWorld">Hello World Project</a></li>
+<li><a href="https://github.com/thewecanzone/GitHubForDummiesReaders">GitHub For Dummies Repo</a></li>
+</ul>
+
 ### My Interests
 I'm interested in making it easier for everyone to write code to make their lives better.
 ### My Blog
